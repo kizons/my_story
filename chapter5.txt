@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The chilly winter was over. Summer promises to be beautiful.
+=======
+The chilly winter was over. Summer promises to be lovely.
+>>>>>>> alien_plot
